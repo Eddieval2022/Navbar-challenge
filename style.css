@@ -60,7 +60,6 @@ li{
     align-content: center;
  }
  .social {
-    display: flex;
     width: 25%;
   }
 }
